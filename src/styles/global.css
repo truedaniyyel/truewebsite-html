@@ -1,0 +1,24 @@
+:focus-visible {
+  outline: 3px solid var(--color-focus);
+  border-radius: var(--px-2);
+  z-index: 1001;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.section-container {
+  width: 100%;
+  max-width: 90rem;
+  margin: 0 auto;
+}
+
+
+@media (hover: hover) and (pointer: fine) {
+ 
+}
+
+@media (min-width: 120rem) {
+
+}
